@@ -148,17 +148,14 @@ GET /api/obter_lista.php?usuario_id=1&nome_pokemon=bulba&nivel_pokemon=16
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/pokedex-api.git
-  ``
   
 2. Acesse a pasta do projeto:
    ```bash
    cd pokedex-api
-  ``
   
 3. Inicie o servidor PHP embutido:
    ```bash
    php -S localhost:8000
-  ``
 
 4. Acesse a API em http://localhost:8000/api/.
 
